@@ -9,5 +9,7 @@
 
 Based on RNN from "Deep Learning A-Z: Hands-On Artificial Neural Networks" by Kirill Eremenko
 
+- LSTM model
 - Utilized yfinance to download data
 - Feature engineered technical analysis using finta 
+- Increased the number of steps in time a model will take into consideration to learn
