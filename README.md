@@ -6,6 +6,7 @@
 
 # Recurrent Neural Network on Google stock
 **stocks_rnn.ipynb**
+
 Based on RNN from "Deep Learning A-Z: Hands-On Artificial Neural Networks" by Kirill Eremenko
 
 - Utilized yfinance to download data
